@@ -1,2 +1,3 @@
-# reading-sw-architecture-in-practice-4th
+# Reading Software Architecture in Practice
+
 Content related to reading the book Software Architecture in Practice, fourth edition.
