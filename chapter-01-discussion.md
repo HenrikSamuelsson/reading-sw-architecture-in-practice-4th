@@ -22,3 +22,4 @@ Hayes-Roth, 1994:
 
 > ..an abstract system specification consisting primarily of functional components described in terms of their behaviors and interfaces and component-component interconnections.
 
+Definitions of software architecture can include considerations like rationale for decisions or how the architecture will evolve over time. This can be considered to be meta information and not strictly necessary. But there are benefits with adding this type of information due to that over time we tend to forget why a decision was taken and keeping notes on what to do next is useful if the work shall be handed over to someone new.
