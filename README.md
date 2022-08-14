@@ -4,4 +4,7 @@ Content related to reading the book Software Architecture in Practice, fourth ed
 
 ## Abbreviations
 
+MTBF - Mean Time Between Failures  
+MTTR - Mean Time To Repair  
+
 QA - Quality Attribute  
