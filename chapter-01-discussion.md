@@ -1,4 +1,4 @@
-# Chapter 1 Discussion Questions Answers
+# Chapter 1 - Discussion Questions Answers
 
 Answers to discussion questions from chapter 1 in the book Software Architecture in Practice, Fourth Edition.
 
