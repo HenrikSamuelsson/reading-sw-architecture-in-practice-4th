@@ -20,7 +20,9 @@ Software architecture can in deed inhibit quality attributes. Say that layers an
 
 Test driven development (TDD) can be argued to solve this problem naturally without any need a lot of initial time to design an architecture and instead start implementation earlier. Employing TDD will produce a large set of tests that can be re-run after the changing the software while having control of that nothing brakes by the changes.
 
-> The analysis of an architecture enables early prediction of a system’s qualities.
+> The analysis of an architecture enables early prediction of a system's qualities.
+
+Early prediction of a system's qualities can also be found quickly by building a prototype and having a prototype also have many other advantages, can for example be shown to stakeholder's to show progress.
 
 > A documented architecture enhances communication among stakeholders.
 
