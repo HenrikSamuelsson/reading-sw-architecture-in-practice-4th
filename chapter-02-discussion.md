@@ -10,7 +10,7 @@ If you remember nothing else from this book, remember that:
 
 ## Question 2
 
-There a 13 reasons listed in chapter 2 why software architecture is important in this discussion question an attempt is made to poke a hole in each reason.
+There a 13 reasons listed in chapter 2 why software architecture is important, an attempt is made in this discussion question to poke a hole in each reason.
 
 > An architecture can either inhibit or enable a system’s driving quality attributes.
 
@@ -25,6 +25,8 @@ Test driven development (TDD) can be argued to solve this problem naturally with
 Early prediction of a system's qualities can also be found quickly by building a prototype and having a prototype also have many other advantages, can for example be shown to stakeholder's to show progress.
 
 > A documented architecture enhances communication among stakeholders.
+
+It is true that an architecture can enhance the communication among the stakeholders but the format used to document software architecture, such as for example UML might not be really understandable by all stakeholders. Mockups, prototypes or questionnaires can be more successful to bolster communication.
 
 > The architecture is a carrier of the earliest, and hence most-fundamental, hardest-to-change design decisions.
 
