@@ -26,7 +26,7 @@ Early prediction of a system's qualities can also be found quickly by building a
 
 > A documented architecture enhances communication among stakeholders.
 
-It is true that an architecture can enhance the communication among the stakeholders but the format used to document software architecture, such as for example UML might not be really understandable by all stakeholders. Mockups, prototypes or questionnaires can be more successful to bolster communication.
+It is true that an architecture can enhance the communication among the stakeholders but the format used to document software architecture, such as for example UML might not be understandable by all stakeholders. Mockups, prototypes or questionnaires can be more successful to bolster communication.
 
 > The architecture is a carrier of the earliest, and hence most-fundamental, hardest-to-change design decisions.
 
